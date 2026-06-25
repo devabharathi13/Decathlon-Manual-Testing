@@ -10,29 +10,6 @@ The goal of this project was to understand the Software Testing Life Cycle (STLC
 
 ---
 
-
-
-
-
-Decathlon-Manual-Testing-Project
-│
-├── SRS
-├── Test Plan
-├── Test Scenarios
-├── Test Cases
-├── RTM
-│   └── Requirement_Traceability_Matrix.xlsx
-├── Test Summary Report
-└── README.md
-
-
-
-
-
-
-
---
-
 ## Modules Tested
 
 * Homepage
