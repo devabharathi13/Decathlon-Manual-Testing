@@ -10,6 +10,10 @@ The goal of this project was to understand the Software Testing Life Cycle (STLC
 
 ---
 
+
+
+
+
 Decathlon-Manual-Testing-Project
 │
 ├── SRS
@@ -20,6 +24,12 @@ Decathlon-Manual-Testing-Project
 │   └── Requirement_Traceability_Matrix.xlsx
 ├── Test Summary Report
 └── README.md
+
+
+
+
+
+
 
 --
 
